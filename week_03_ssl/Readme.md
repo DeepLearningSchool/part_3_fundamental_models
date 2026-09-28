@@ -8,5 +8,5 @@
 
 В этом разделе вы узнаете про self-supervised методы в компьютерном зрении и как делать foundational models когда нет разметки
 
-[![Presentation](https://img.shields.io/badge/📊_Лекция-Презентация-orange)](/Lecture/lecture_ssl.pdf)
+[![Presentation](https://img.shields.io/badge/📊_Лекция-Презентация-orange)](../week_03_ssl/Lecture/lecture_ssl.pdf)
 
